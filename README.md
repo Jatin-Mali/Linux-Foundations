@@ -24,5 +24,5 @@ understanding.
 
 
 Before Starting our Linux Fundamentals Journey, By heart this Phrase 
-"Eveyrthing in Linux is a file". 
+"Everything in Linux is a file". 
 
